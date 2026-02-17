@@ -1,6 +1,4 @@
-package p03_operation
-
-import java.util.Objects
+package p04_operation
 
 fun main() {
     val money1 = JavaMoney(2_000L)
